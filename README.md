@@ -10,5 +10,5 @@ My course:
    * Week 5 Data Structures
    * Week 6 Python
    * Week 7 SQL
-2. (CS50's Introduction to Artificial Itelligence with Python)[https://github.com/lyphilong/CS50x/tree/master/CS50%E2%80%99s%20Introduction%20to%20Artificial%20Itelligence%20with%20Python]
+2. [CS50's Introduction to Artificial Itelligence with Python](https://github.com/lyphilong/CS50x/tree/master/CS50%E2%80%99s%20Introduction%20to%20Artificial%20Itelligence%20with%20Python)
     * Week 0 Search
